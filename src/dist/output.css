@@ -515,3 +515,246 @@ video {
   --tw-backdrop-saturate:  ;
   --tw-backdrop-sepia:  ;
 }
+
+.absolute {
+  position: absolute;
+}
+
+.relative {
+  position: relative;
+}
+
+.-bottom-12 {
+  bottom: -3rem;
+}
+
+.-bottom-64 {
+  bottom: -16rem;
+}
+
+.-right-\[700px\] {
+  right: -700px;
+}
+
+.-z-10 {
+  z-index: -10;
+}
+
+.-z-20 {
+  z-index: -20;
+}
+
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.ml-auto {
+  margin-left: auto;
+}
+
+.mt-28 {
+  margin-top: 7rem;
+}
+
+.mt-8 {
+  margin-top: 2rem;
+}
+
+.mt-40 {
+  margin-top: 10rem;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+.flex {
+  display: flex;
+}
+
+.h-6 {
+  height: 1.5rem;
+}
+
+.h-12 {
+  height: 3rem;
+}
+
+.min-h-screen {
+  min-height: 100vh;
+}
+
+.w-\[2000px\] {
+  width: 2000px;
+}
+
+.w-4 {
+  width: 1rem;
+}
+
+.w-6 {
+  width: 1.5rem;
+}
+
+.w-12 {
+  width: 3rem;
+}
+
+.max-w-\[320px\] {
+  max-width: 320px;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.rounded-full {
+  border-radius: 9999px;
+}
+
+.rounded-b-full {
+  border-bottom-right-radius: 9999px;
+  border-bottom-left-radius: 9999px;
+}
+
+.border {
+  border-width: 1px;
+}
+
+.border-b-4 {
+  border-bottom-width: 4px;
+}
+
+.border-\[\#44ffa1\] {
+  --tw-border-opacity: 1;
+  border-color: rgb(68 255 161 / var(--tw-border-opacity));
+}
+
+.border-\[\#24053e\] {
+  --tw-border-opacity: 1;
+  border-color: rgb(36 5 62 / var(--tw-border-opacity));
+}
+
+.bg-skin-canvas-sec {
+  --tw-bg-opacity: 1;
+  background-color: rgb(252 248 255 / var(--tw-bg-opacity));
+}
+
+.bg-skin-fill-accent {
+  --tw-bg-opacity: 1;
+  background-color: rgb(68 255 161 / var(--tw-bg-opacity));
+}
+
+.bg-skin-fill-pri {
+  --tw-bg-opacity: 1;
+  background-color: rgb(36 5 62 / var(--tw-bg-opacity));
+}
+
+.p-10 {
+  padding: 2.5rem;
+}
+
+.p-4 {
+  padding: 1rem;
+}
+
+.p-8 {
+  padding: 2rem;
+}
+
+.p-6 {
+  padding: 1.5rem;
+}
+
+.px-0 {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.px-4 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.py-2 {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.py-\[1000px\] {
+  padding-top: 1000px;
+  padding-bottom: 1000px;
+}
+
+.pb-28 {
+  padding-bottom: 7rem;
+}
+
+.pt-12 {
+  padding-top: 3rem;
+}
+
+.pt-4 {
+  padding-top: 1rem;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.align-middle {
+  vertical-align: middle;
+}
+
+.font-fraunces {
+  font-family: Fraunces, serif;
+}
+
+.text-bodyPri {
+  font-size: 18px;
+  line-height: 32px;
+}
+
+.text-hdgM {
+  font-size: 56px;
+  line-height: 64px;
+}
+
+.text-skin-accent-pri {
+  --tw-text-opacity: 1;
+  color: rgb(36 5 62 / var(--tw-text-opacity));
+}
+
+.text-skin-content-inverted {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+
+.text-skin-content-pri {
+  --tw-text-opacity: 1;
+  color: rgb(88 77 98 / var(--tw-text-opacity));
+}
+
+.text-skin-hdg-pri {
+  --tw-text-opacity: 1;
+  color: rgb(36 5 62 / var(--tw-text-opacity));
+}
+
+.text-skin-hdg-inverted {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+
+.hover\:cursor-pointer:hover {
+  cursor: pointer;
+}
+
+.hover\:text-skin-accent-inverted:hover {
+  --tw-text-opacity: 1;
+  color: rgb(68 255 161 / var(--tw-text-opacity));
+}
