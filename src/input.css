@@ -1,3 +1,35 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.custom-shape-divider-bottom-1681836177 {
+	position: absolute;
+	bottom: -100px;
+	left: 0;
+	width: 100%;
+	overflow: hidden;
+	line-height: 0;
+	z-index: 1;
+	/* transform: rotate(180deg); */
+}
+
+.custom-shape-divider-bottom-1681836177 svg {
+	position: relative;
+	display: block;
+	width: calc(100% + 1.3px);
+	height: 100px;
+}
+
+.custom-shape-divider-bottom-1681836177 .shape-fill {
+	fill: #24053e;
+}
+
+.hero-background__imgs {
+	background-image: url("/assets/images/bg-pattern-1.svg"),
+		url("/assets/images/bg-pattern-2.svg");
+	background-position: left -13rem top -2rem, right -6rem top 9rem;
+}
+
+.test {
+	background-color: green;
+}
